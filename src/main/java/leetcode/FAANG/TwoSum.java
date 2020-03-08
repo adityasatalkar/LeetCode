@@ -1,3 +1,5 @@
+package leetcode.FAANG;
+
 import static leetcode.MoveZeros.printArray;
 
 public class TwoSum {
