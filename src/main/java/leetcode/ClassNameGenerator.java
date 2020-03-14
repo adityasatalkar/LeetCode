@@ -23,7 +23,7 @@ public class ClassNameGenerator {
 	}
 
 	public static void main(String[] args) {
-		String inputString = "Pascals Triangle";
+		String inputString = "Union Find Or Disjoint Set";
 		System.out.println(generateName(inputString));
 	}
 }
