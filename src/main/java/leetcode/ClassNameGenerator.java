@@ -23,7 +23,7 @@ public class ClassNameGenerator {
 	}
 
 	public static void main(String[] args) {
-		String inputString = "Meeting Rooms II";
+		String inputString = "Pascals Triangle";
 		System.out.println(generateName(inputString));
 	}
 }

@@ -2,7 +2,7 @@ package leetcode.Mapbox;
 
 import java.util.*;
 
-import static leetcode.MoveZeros.printArray;
+import static leetcode.practice.MoveZeros.printArray;
 
 public class SortIntegersByTheNumberOf1Bits {
 

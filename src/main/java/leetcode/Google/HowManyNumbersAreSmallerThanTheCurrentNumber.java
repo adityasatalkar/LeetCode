@@ -3,7 +3,7 @@ package leetcode.Google;
 import java.util.Arrays;
 import java.util.HashMap;
 
-import static leetcode.MoveZeros.printArray;
+import static leetcode.practice.MoveZeros.printArray;
 
 public class HowManyNumbersAreSmallerThanTheCurrentNumber {
 

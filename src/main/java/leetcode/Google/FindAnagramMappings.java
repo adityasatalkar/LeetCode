@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Stack;
 
-import static leetcode.MoveZeros.printArray;
+import static leetcode.practice.MoveZeros.printArray;
 
 public class FindAnagramMappings {
 

@@ -3,7 +3,7 @@ package leetcode.MathWorks;
 import java.util.ArrayList;
 import java.util.List;
 
-import static leetcode.PrintArray.printArray;
+import static leetcode.practice.PrintArray.printArray;
 
 
 public class KeyboardRow {

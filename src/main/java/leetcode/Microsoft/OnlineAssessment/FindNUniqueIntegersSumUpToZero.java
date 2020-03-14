@@ -1,6 +1,6 @@
 package leetcode.Microsoft.OnlineAssessment;
 
-import static leetcode.MoveZeros.printArray;
+import static leetcode.practice.MoveZeros.printArray;
 
 public class FindNUniqueIntegersSumUpToZero {
 

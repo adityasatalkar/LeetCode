@@ -1,6 +1,6 @@
 package leetcode.MathWorks;
 
-import static leetcode.MoveZeros.printArray;
+import static leetcode.practice.MoveZeros.printArray;
 
 public class CountingBits {
 

@@ -1,4 +1,4 @@
-package leetcode.FAANG;
+package leetcode.practice;
 
 import static leetcode.practice.MoveZeros.printArray;
 

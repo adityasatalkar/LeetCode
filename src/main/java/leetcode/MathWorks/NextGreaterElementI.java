@@ -2,7 +2,7 @@ package leetcode.MathWorks;
 
 import java.util.HashMap;
 
-import static leetcode.MoveZeros.printArray;
+import static leetcode.practice.MoveZeros.printArray;
 
 public class NextGreaterElementI {
 
