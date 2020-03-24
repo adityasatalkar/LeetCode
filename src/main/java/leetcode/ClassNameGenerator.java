@@ -23,7 +23,7 @@ public class ClassNameGenerator {
 	}
 
 	public static void main(String[] args) {
-		String inputString = "Union Find Or Disjoint Set";
+		String inputString = "Excel Sheet Column Number";
 		System.out.println(generateName(inputString));
 	}
 }
