@@ -23,7 +23,7 @@ public class ClassNameGenerator {
 	}
 
 	public static void main(String[] args) {
-		String inputString = "Excel Sheet Column Number";
+		String inputString = "First Unique Number";
 		System.out.println(generateName(inputString));
 	}
 }
